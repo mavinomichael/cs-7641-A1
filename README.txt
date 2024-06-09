@@ -1,4 +1,4 @@
-To run the code, you will need the following packages in addition to Python 3.7 and jupyter:
+To run the code, you will need the following packages in addition to Python 3.11 and jupyter:
 numpy == 1.15.1
 scipy==1.13.1
 scikit-learn==1.5.0
@@ -11,4 +11,5 @@ seaborn==0.13.2
 3. Both csv files are stored in the 'data' folder.
 4. Once jupyter notebook is open, you should be able to run each cell directly.
 
-Code uploaded to: https://github.com/mavinomichael/social-app-fastapi/cs-7641-A1
+Code uploaded to: https://github.com/mavinomichael/cs-7641-A1
+Link to Overleaf Read-only file: https://www.overleaf.com/read/npbrcqxgshwb#bb5395
